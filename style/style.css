@@ -6,11 +6,11 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-html:-moz-full-screen {
+body:-moz-full-screen {
  background: red; }
-html:-webkit-full-screen {
+body:-webkit-full-screen {
  background: red; } 
-html:-ms-fullscreen {
+body:-ms-fullscreen {
  background: red; width: 100%; /* needed to center contents in IE */ } html:fullscreen { background: red; }
 .container {
   height: 100vh;
