@@ -6,12 +6,12 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-body:-moz-full-screen {
- background: red; }
-body:-webkit-full-screen {
- background: red; } 
-body:-ms-fullscreen {
- background: red; width: 100%; /* needed to center contents in IE */ } html:fullscreen { background: red; }
+body:fullscreen {
+ background-color: red; }
+body:-fullscreen {
+ background-color: red; } 
+body:fullscreen {
+ background-color: red; width: 100%; /* needed to center contents in IE */ } html:fullscreen { background: red; }
 .container {
   height: 100vh;
   width: 100vh;
