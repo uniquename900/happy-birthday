@@ -6,9 +6,9 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-#body:fullscreen { background-color: green; width: 100vw; height: 100vh; }
-#body:-webkit-full-screen { background-color: green; width: 100vw; height: 100vh; }
-#body:-moz-full-screen { background-color: green; width: 100vw; height: 100vh; }
+#fullsc:fullscreen { background-color: green; width: 100vw; height: 100vh; }
+#fullsc:-webkit-full-screen { background-color: green; width: 100vw; height: 100vh; }
+#fullsc:-moz-full-screen { background-color: green; width: 100vw; height: 100vh; }
  .container {
   height: 100vh;
   width: 100vh;
