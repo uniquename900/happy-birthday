@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-#fullsc:not(:fullscreen) { background-color: yellow; }
+#fullsc:not(:fullscreen) { background-color: white; }
 #fullsc:fullscreen {
   background-color: blue;
 }
