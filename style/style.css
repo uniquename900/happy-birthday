@@ -231,7 +231,9 @@ body {
   z-index: 3;
   cursor: pointer;
 }
-
+:fullscreen {
+    background-color: red;
+}
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
