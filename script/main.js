@@ -1,4 +1,5 @@
 // Animation Timeline
+function isFullscreen(){
 const animationTimeline = () => {
   // Spit chars that needs to be animated individually
   const textBoxChars = document.getElementsByClassName("hbd-chatbox")[0];
@@ -304,3 +305,4 @@ const resolveFetch = () => {
 };
 
 resolveFetch().then(animationTimeline());
+}
