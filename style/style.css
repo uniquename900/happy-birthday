@@ -1,11 +1,12 @@
 html {
   box-sizing: border-box;
+  background-color: lightblue;
+  color: white;
 }
 
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-color: lightblue;
 }
 .container {
   height: 100vh;
