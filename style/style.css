@@ -4,6 +4,8 @@ html {
 
 body {
   margin: 0;
+background-color:black;
+color:white;
   font-family: "Work Sans", sans-serif;
 }
 #fullsc::backdrop { background-color: #000000;
