@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-#fullsc::backdrop { background-color: #000000; }
+#fullsc::backdrop { background-color: #000000;color:#ffffff; }
  .container {
   height: 100vh;
   width: 100vh;
