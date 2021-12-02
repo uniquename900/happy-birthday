@@ -1,7 +1,4 @@
-*{
-  background-color: #000000;
-  color: #ffffff;
-}
+
 html {
   box-sizing: border-box;
 }
@@ -9,6 +6,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  background-color: #000000;
 }
 .container {
   height: 100vh;
