@@ -1,7 +1,9 @@
-html {
-  box-sizing: border-box;
+*{
   background-color: lightblue;
   color: white;
+}
+html {
+  box-sizing: border-box;
 }
 
 body {
